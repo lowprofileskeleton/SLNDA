@@ -1,14 +1,11 @@
-## Hi there 👋 Welcome to WitchDAW 
+## Hi there 👋 Welcome to SLNDA
 
 <!--
 **WitchDAW/Witchdaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my laptop this insprire form my friends
-I use JUCE C++ Framework.
-
-
+10/12/2025 =  1.0 is Avalible
 
 <!--
 - 🌱 I’m currently learning ...
